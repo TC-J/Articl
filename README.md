@@ -2,9 +2,11 @@
 
 [Install .NET Framework & CLI Tools for Linux](https://learn.microsoft.com/en-us/dotnet/core/install/linux-scripted-manual#scripted-install)
 
-Clone:
+Installatioin:
 ```
 $ git clone https://github.com/TC-J/Articl.git
+$ cd Articl
+$ make install
 ```
 
 [See the .NET CLI Overview for details on the usage below.](https://learn.microsoft.com/en-us/dotnet/core/tools/) 
